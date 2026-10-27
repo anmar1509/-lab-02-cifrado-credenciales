@@ -45,7 +45,7 @@ Para el desarrollo de la actividad se llevaron a cabo los siguientes pasos dentr
 
 ### 7.5 Verificar una contraseña
 
-![evidencia1](./img/evidencia1.png)
+![evidencia1](../img/evidencia1.png)
 * **1. ¿Qué resultado obtuviste con la contraseña correcta?**  
   Se obtuvo el valor `true` (`t`).
 * **2. ¿Qué resultado obtuviste con la contraseña incorrecta?**  
